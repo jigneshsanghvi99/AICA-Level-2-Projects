@@ -1,0 +1,6 @@
+{
+  "name": "Indian Income-tax Comparative Analysis & Calculator",
+  "description": "Offline-first desktop application for comparative analysis of Income-tax Act, 1961 vs Income-tax Act, 2025, Advance Tax, and TDS calculations with rule-driven engine.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
